@@ -1,3 +1,5 @@
+package Linkedlist;
+
 /**
  * Created by hasee on 2017/4/2.
  */
@@ -9,7 +11,7 @@ public class Node{
         this.next = Head;
     }
 
-    public Node(int obj,Node Next){
+    public Node(int obj, Node Next){
         this.data = obj;
         this.next = Next;
     }
