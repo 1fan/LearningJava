@@ -1,5 +1,7 @@
 package Linkedlist;
 
+import java.util.Arrays;
+
 /**
  * Created by hasee on 2017/4/2.
  */
